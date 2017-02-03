@@ -1,0 +1,49 @@
+БАТЭ (Борисов)
+Шахтер (Солигорск)
+Динамо (Минск)
+Минск
+Торпедо-БелАЗ (Жодино)
+Витебск
+Ислочь (Минский р-он)
+Динамо (Брест)
+Городея
+Славия (Мозырь)
+Крумкачы (Минск)
+Слуцк
+Нафтан (Новополоцк)
+Неман (Гродно)
+Белшина (Бобруйск)
+Гранит (Микашевичи)
+
+insert into teams (title, city, emblem, season, win, draw, lost) values("Динамо", "Минск", NULL, 2016, 0, 0, 0);
+insert into teams (title, city, emblem, season, win, draw, lost) values("Минск", "Минск", NULL, 2016, 0, 0, 0);
+insert into teams (title, city, emblem, season, win, draw, lost) values("Витебск", "Витебск", NULL, 2016, 0, 0, 0);
+insert into teams (title, city, emblem, season, win, draw, lost) values("Торпедо-БелАЗ", "Жодино", NULL, 2016, 0, 0, 0);
+insert into teams (title, city, emblem, season, win, draw, lost) values("Ислочь", "Минский р-он", NULL, 2016, 0, 0, 0);
+insert into teams (title, city, emblem, season, win, draw, lost) values("Динамо", "Брест", NULL, 2016, 0, 0, 0);
+insert into teams (title, city, emblem, season, win, draw, lost) values("Городея", "Городея", NULL, 2016, 0, 0, 0);
+insert into teams (title, city, emblem, season, win, draw, lost) values("Славия", "Мозырь", NULL, 2016, 0, 0, 0);
+insert into teams (title, city, emblem, season, win, draw, lost) values("Крумкачы", "Минск", NULL, 2016, 0, 0, 0);
+insert into teams (title, city, emblem, season, win, draw, lost) values("Слуцк", "Слуцк", NULL, 2016, 0, 0, 0);
+insert into teams (title, city, emblem, season, win, draw, lost) values("Нафтан", "Новополоцк", NULL, 2016, 0, 0, 0);
+insert into teams (title, city, emblem, season, win, draw, lost) values("Неман", "Гродно", NULL, 2016, 0, 0, 0);
+insert into teams (title, city, emblem, season, win, draw, lost) values("Белшина", "Бобруйск", NULL, 2016, 0, 0, 0);
+insert into teams (title, city, emblem, season, win, draw, lost) values("Гранит", "Микашевичи", NULL, 2016, 0, 0, 0);
+
+bateborisov.png
+belshinabobruisk.png
+dinamobrest.png
+dinamominsk.png
+fkminsk.png
+fkvitebsk.png
+gorodeya.png
+granitmikashevichi.png
+isloch.png
+krumkachy.png
+naftannovopolotsk.png
+neman.png
+shakhtersoligorsk.png
+slaviamozyr.png
+slutsk.png
+torpedobelazzhodino.png
+

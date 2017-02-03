@@ -1,0 +1,248 @@
+round 1
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(7, 13, 2, 0, 1, 2016, '2016-04-01 14:00' ,'Минск, Стадион ФК "Минск');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(8, 1, 1, 4, 1, 2016, '2016-04-02 14:00' ,'Брест, ОСК "Брестский');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(15, 11, 1, 1, 1, 2016, '2016-04-02 14:30' ,'Бобруйск, Стадион им. А.Прокопенко');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(10, 12, 1, 1, 1, 2016, '2016-04-02 16:00' ,'Мозырь, Стадион "Юность"');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(6, 3, 0, 2, 1, 2016, '2016-04-02 17:00' ,'Жодино, Стадион "Торпедо"');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(9, 2, 0, 1, 1, 2016, '2016-04-02 17:00' ,'Минск, Стадион РЦОР-БГУ');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(4, 5, 1, 0, 1, 2016, '2016-04-02 19:00' ,'Минск, Стадион ФК "Минск"');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(14, 16, 1, 1, 1, 2016, '2016-04-03 16:00' ,'Гродно, ЦСК "Неман"');
+
+round 2
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(16, 7, 0, 1, 2, 2016, '2016-04-09 14:00' ,'Лунинец, Стадион "Полесье"');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(11, 14, 2, 1, 2, 2016, '2016-04-09 16:00' ,'Минск, Стадион ФК "Минск"');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(13, 10, 0, 1, 2, 2016, '2016-04-10 14:00' ,'Новополоцк, Стадион "Атлант"');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(3, 9, 2, 0, 2, 2016, '2016-04-10 15:00' ,'Минск, Стадион "Трактор"');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(12, 6, 1, 1, 2, 2016, '2016-04-10 16:00' ,'Слуцк, Городской стадион');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(8, 4, 0, 3, 2, 2016, '2016-04- 17:00' ,'Брест, ОСК "Брестский"');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(15, 5, 0, 1, 2, 2016, '2016-04-11 17:30' ,'Бобруйск, Стадион "Спартак"');
+insert into matches (home_team_id, guest_team_id, score_home, score_guest, round, season, datem, place ) values(1, 2, 2, 0, 2, 2016, '2016-04-11 19:00' ,'Борисов, Стадион "Борисов-Арена"');
+
+insert into matches values(16, 7, 0, 1, 2, 2016, '2016-04-09 14:00' ,'Лунинец, Стадион "Полесье"');
+16 - Гранит (Микашевичи)0:1
+7 - Ислочь (Минский р-он)
+09.04.2016. 14:00 Лунинец, Стадион "Полесье"
+
+insert into matches values(11, 14, 2, 1, 2, 2016, '2016-04-09 16:00' ,'Минск, Стадион ФК "Минск"');
+11 - Крумкачы (Минск)2:1
+14 - Неман (Гродно)
+09.04.2016. 16:00 Минск, Стадион ФК "Минск"
+
+insert into matches values(13, 10, 0, 1, 2, 2016, '2016-04-10 14:00' ,'Новополоцк, Стадион "Атлант"');
+13 - Нафтан (Новополоцк)0:1
+10 - Славия (Мозырь)
+10.04.2016. 14:00 Новополоцк, Стадион "Атлант"
+
+insert into matches values(3, 9, 2, 0, 2, 2016, '2016-04-10 15:00' ,'Минск, Стадион "Трактор"');
+3 - Динамо (Минск)2:0
+9 - Городея
+10.04.2016. 15:00 Минск, Стадион "Трактор"
+
+insert into matches values(12, 6, 1, 1, 2, 2016, '2016-04-10 16:00' ,'Слуцк, Городской стадион');
+12 -Слуцк1:1
+6 - Торпедо-БелАЗ (Жодино)
+10.04.2016. 16:00 Слуцк, Городской стадион
+
+insert into matches values(8, 4, 0, 3, 2, 2016, '2016-04- 17:00' ,'Брест, ОСК "Брестский"');
+8 - Динамо (Брест)0:3
+4- Минск
+10.04.2016. 17:00 Брест, ОСК "Брестский"
+
+insert into matches values(15, 5, 0, 1, 2, 2016, '2016-04-11 17:30' ,'Бобруйск, Стадион "Спартак"');
+15 - Белшина (Бобруйск)0:1
+5 - Витебск
+11.04.2016. 17:30 Бобруйск, Стадион "Спартак"
+
+insert into matches values(1, 2, 2, 0, 2, 2016, '2016-04-11 19:00' ,'Борисов, Стадион "Борисов-Арена"');
+1 - БАТЭ (Борисов)2:0
+2 - Шахтер (Солигорск)
+11.04.2016. 19:00 Борисов, Стадион "Борисов-Арена"
+
+
+
+
+
+Round 1
+
+Динамо (Брест)
+1:4
+БАТЭ (Борисов)
+02.04.2016. 14:00
+ Брест, ОСК "Брестский"
+
+Белшина (Бобруйск)
+1:1
+Крумкачы (Минск)
+02.04.2016. 14:30
+ Бобруйск, Стадион им. А.Прокопенко
+
+
+Славия (Мозырь)
+1:1
+Слуцк
+02.04.2016. 16:00
+ Мозырь, Стадион "Юность"
+
+
+Торпедо-БелАЗ (Жодино)
+0:2
+Динамо (Минск)
+02.04.2016. 17:00
+ Жодино, Стадион "Торпедо"
+
+
+Городея
+0:1
+Шахтер (Солигорск)
+02.04.2016. 17:00
+ Минск, Стадион РЦОР-БГУ
+
+
+Минск
+1:0
+Витебск
+02.04.2016. 19:00
+ Минск, Стадион ФК "Минск"
+
+
+Неман (Гродно)
+1:1
+Гранит (Микашевичи)
+03.04.2016. 16:00
+ Гродно, ЦСК "Неман"
+
+
+select T_ID, title, home_team_id, guest_team_id, place from teams inner join matches ON teams.T_ID=matches.home_team_id INNER JOIN title from teams ON teams.T_ID=matches.guest_team_id;
+union
+select T_ID, title, home_team_id, guest_team_id, place from teams inner join matches ON teams.T_ID=matches.guest_team_id;
+
+,
+SELECT score_home, score_guest,
+   FROM matches 
+   INNER JOIN teams AS HOME ON matches.home_team_id=HOME.T_ID 
+   INNER JOIN teams AS GUEST ON matches.guest_team_id=GUEST.T_ID
+   WHERE matches.M_ID=1
+
+/*результаты матчей*/
+/*-------------------------------------------------------*/
+SELECT m.round, HOME.title, GUEST.title, m.score_home, m.score_guest, m.datem, m.place
+  FROM matches AS m
+  JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+  JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID;
+/*-------------------------------------------------------*/
+
+/*результаты матчей за определенный сезон*/
+/*-------------------------------------------------------*/
+SELECT m.round, HOME.title AS home_title, GUEST.title AS guest_title, m.score_home, m.score_guest, m.datem, m.place
+  FROM matches AS m
+  JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+  JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID
+  where m.season=2016;
+/*-------------------------------------------------------*/
+
+
+SELECT m.round, HOME.title, GUEST.title, m.score_home, m.score_guest
+  FROM matches AS m
+  JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+  JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID
+  WHERE m.score_home>2 or m.score_guest>2;
+  
+  SELECT m.round, HOME.title, GUEST.title, m.score_home, m.score_guest
+    FROM matches AS m
+    JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+    JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID
+  WHERE HOME.title='БАТЭ' or GUEST.title='БАТЭ';
+  
+
+  SELECT SUM(m.score_home) AS 'Число забитых голов в дом. матчах'
+      FROM matches AS m
+      JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+      JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID
+  WHERE HOME.title='БАТЭ';
+  
+  
+  SELECT SUM(m.score_home)
+      FROM matches AS m
+      JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+      JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID
+  WHERE HOME.title='БАТЭ'
+  union
+  SELECT SUM(m.score_guest)
+        FROM matches AS m
+        JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+        JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID
+  WHERE GUEST.title='БАТЭ';
+  
+/*число забитых и пропущенных Белшиной*/
+/*-------------------------------------------------------*/
+  SELECT teamName, SUM(score_in) as 'Число забитых', SUM(score_out) as 'Число пропущенных' FROM
+    (SELECT HOME.title as teamName, SUM(m.score_home) AS score_in, SUM(m.score_guest) AS score_out
+        FROM matches AS m
+        JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+        JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID
+    WHERE HOME.title='Городея'
+    union
+    SELECT GUEST.title as teamName, SUM(m.score_guest) AS score_in, SUM(m.score_home) AS score_out
+          FROM matches AS m
+          JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+          JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID
+  WHERE GUEST.title='Городея');
+/*-------------------------------------------------------*/
+
+/*win, lost, draw, Белшины (in progress)*/
+/*-------------------------------------------------------*/
+  SELECT teamName, COUNT(draw) as 'Число ничьих' FROM
+    (SELECT HOME.title as teamName, COUNT(home_team_id) AS draw
+        FROM matches AS m
+        JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+        JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID
+        WHERE HOME.title='Слуцк' AND m.score_home=m.score_guest
+    union
+    SELECT GUEST.title as teamName, COUNT(guest_team_id) AS draw
+          FROM matches AS m
+          JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+          JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID
+          WHERE GUEST.title='Слуцк' AND m.score_home=m.score_guest);
+/*-------------------------------------------------------*/
+  
+/*число забитых и пропущенных (in progress) */
+/*-------------------------------------------------------*/    
+  SELECT teamName, SUM(score_in) as 'Число забитых', SUM(score_out) as 'Число пропущенных' FROM
+    (SELECT HOME.title as teamName, SUM(m.score_home) AS score_in, SUM(m.score_guest) AS score_out
+        FROM matches AS m
+        JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+        JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID
+
+    union
+    SELECT GUEST.title as teamName, SUM(m.score_guest) AS score_in, SUM(m.score_home) AS score_out
+          FROM matches AS m
+          JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+          JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID);
+  
+    WHERE HOME.title='БАТЭ'  
+  WHERE GUEST.title='БАТЭ');
+/*-------------------------------------------------------*/            
+
+/*число забитых и пропущенных ++*/
+/*-------------------------------------------------------*/
+
+  SELECT teamName, SUM(score_in) as 'Число забитых', SUM(score_out) as 'Число пропущенных' FROM
+    (SELECT HOME.title as teamName, SUM(m.score_home) AS score_in, SUM(m.score_guest) AS score_out
+        FROM matches AS m
+        JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+        JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID
+        GROUP BY HOME.title
+    union
+    SELECT GUEST.title as teamName, SUM(m.score_guest) AS score_in, SUM(m.score_home) AS score_out
+          FROM matches AS m
+          JOIN teams AS HOME ON m.home_team_id=HOME.T_ID
+          JOIN teams AS GUEST ON m.guest_team_id=GUEST.T_ID
+          GROUP BY GUEST.title
+      )
+    GROUP BY teamName;
+/*-------------------------------------------------------*/  
+
+/* количество матчей в туре + сезон*/
+/*-------------------------- ++++*/
+SELECT COUNT(round) as matchesinround FROM matches WHERE season=2016 and round=1;
+/*-------------------------------------*/

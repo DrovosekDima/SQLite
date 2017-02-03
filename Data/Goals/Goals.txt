@@ -1,0 +1,11 @@
+Goals
+
+CREATE TABLE goals(
+	G_ID INTEGER PRIMARY KEY AUTOINCREMENT,	
+	minute time,
+	player_id INTEGER,
+	match_id INTEGER,
+	type string
+);
+
+INSERT TABLE goals (time, player_id, match_id) VALUES();
